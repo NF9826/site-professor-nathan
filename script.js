@@ -6,7 +6,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const footer = document.createElement("footer");
     footer.innerHTML = `
         <section>
-        <p>Informações de Contato </p> 
+        <div style="text-align: center;">
+        <p><u><strong>INFORMAÇÕES DE CONTATO</strong></u></p> 
+        </div>
         <p> Telefone: (42) 99952-5386 </p>
         <p>E-mail:<a href="mailto:nnferreira98@gmail.com">nnferreira98@gmail.com</a></p>
         <p>R. Helena Setelik, 79 - Bairro Bella Casa - Reserva/PR.</p>
