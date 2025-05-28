@@ -131,3 +131,16 @@ footer a:hover {
     .botao-simulacao:hover {
       background-color: #004d99;
     }
+.container-imagens {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 20px;
+      flex-wrap: wrap; /* Permite quebrar linha em telas pequenas */
+    }
+
+    .container-imagens img {
+      width: 300px;
+      height: auto;
+      border-radius: 8px;
+    }
