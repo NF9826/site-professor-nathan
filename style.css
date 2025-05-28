@@ -117,3 +117,17 @@ footer a:hover {
         aspect-ratio: 16/9;
       }
     }
+.botao-simulacao {
+      background-color: #0066cc;
+      color: white;
+      padding: 12px 24px;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .botao-simulacao:hover {
+      background-color: #004d99;
+    }
